@@ -17,6 +17,12 @@ Contents
 --------
 
 .. toctree::
-
+   
+   PANORAMA EDITOR
+   ZDROJ
+   INŠTALÁCIA
+   SPUSTENIE A PREZERANIE DÁT ZO SERVERA
    usage
    api
+   obsah
+   
